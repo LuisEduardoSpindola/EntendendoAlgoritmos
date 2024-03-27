@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntendendoAlgoritmos", "EntendendoAlgoritmos\EntendendoAlgoritmos.csproj", "{F3435A62-99D1-43B1-8231-1A0F3F20763F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3435A62-99D1-43B1-8231-1A0F3F20763F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3435A62-99D1-43B1-8231-1A0F3F20763F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3435A62-99D1-43B1-8231-1A0F3F20763F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3435A62-99D1-43B1-8231-1A0F3F20763F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1563F072-8381-41C5-AE26-14A59088173D}
+	EndGlobalSection
+EndGlobal
